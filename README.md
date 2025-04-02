@@ -11,7 +11,7 @@
 
 - 👨‍💻 Explore my projects at https://github.com/VishalVKV99?tab=repositories)
 
-- 💬 Ask me about **Fullstack roadmap, DSA roadmap, Machine Learning**
+- 💬 Ask me about **Fullstack roadmap, DSA roadmap**
 
 - 📫 Reach me at **vishalverma3242@gmail.com**
 
