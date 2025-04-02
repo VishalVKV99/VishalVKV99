@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+VISHAL;Aspiring+Fullstack+Developer;Backend+Development+Enthusiast;LEARNING+DSA;">
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=risu&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile views" height="25px" width="160px"/>
+<img src="https://komarev.com/ghpvc/?username=vishalvkv99&label=Profile%20views&color=0047AB&style=plastic?" alt="Profile views" height="25px" width="160px"/>
 
 <img align="right" src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
